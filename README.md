@@ -4,7 +4,7 @@
 I’m pursuing my Bachelors  in Computer Science & Engineering from Global Nature Care Sangthan Jabalpur. <br>
 I'm currently in **5TH SEM**.I spent and Inverstmy time on web development and Practicing DSA 💣.</br>
 
-### Litte bit more about me:
+### Little bit more about me:
 
 -  I’m currently working in improving DSA.
 -  I’m currently learning Full Stack Development.
