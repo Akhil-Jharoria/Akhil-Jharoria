@@ -2,7 +2,7 @@
 
 ### Some Thing About Me 
 I’m pursuing my Bachelors  in Computer Science & Engineering from Global Nature Care Sangthan Jabalpur. <br>
-I'm currently in **5TH SEM**.I spent and Inverstmy time on web development and Practicing DSA 💣.</br>
+I'm currently in **8TH SEM**.I spent and Inverstmy time on web development and Practicing DSA 💣.</br>
 
 ### Little bit more about me:
 
