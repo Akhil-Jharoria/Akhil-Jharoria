@@ -8,7 +8,7 @@ I'm currently in **8TH SEM**.I spent and Inverstmy time on web development and P
 
 -  I’m currently working in improving DSA.
 -  I’m currently learning Full Stack Development.
--  You can reach me to reach me: akhiljharorai7898@gmail.com.
+-  You can reach me to reach me: akhiljharoria7898@gmail.com.
 
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/sanjay-singh-patel/sanjay-singh-patel/resume.pdf). -->
 
